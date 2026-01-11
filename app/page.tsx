@@ -64,12 +64,12 @@ export default function HomePage() {
               </div>
 
               <h1 className="mx-auto max-w-4xl text-balance text-4xl font-bold tracking-tight text-foreground md:text-6xl lg:text-7xl">
-                Ирээдүйгээ өөрчил
-                <span className="block text-accent">дэлхийд гар</span>
+                Боловсролын замд тань
+                <span className="block text-accent">туслах хамтрагч</span>
               </h1>
 
               <p className="mx-auto mt-6 max-w-2xl text-pretty text-lg text-muted-foreground md:text-xl">
-                Эссэгээ байршуулж, AI шинжилгээгээр дэлхийн шилдэг их сургуулиудад элсэх боломжоо нээгээрэй.
+                Эссэгээ байршуулж, AI шинжилгээгээр боловсролын зорилгодоо хүрэх алхмуудаа тодорхойлоорой.
               </p>
 
               <div className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
